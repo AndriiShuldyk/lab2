@@ -1,0 +1,15 @@
+E:\study\address\bin\Debug\net6.0\address.exe
+E:\study\address\bin\Debug\net6.0\address.deps.json
+E:\study\address\bin\Debug\net6.0\address.runtimeconfig.json
+E:\study\address\bin\Debug\net6.0\address.dll
+E:\study\address\bin\Debug\net6.0\address.pdb
+E:\study\address\obj\Debug\net6.0\address.csproj.AssemblyReference.cache
+E:\study\address\obj\Debug\net6.0\address.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\address\obj\Debug\net6.0\address.AssemblyInfoInputs.cache
+E:\study\address\obj\Debug\net6.0\address.AssemblyInfo.cs
+E:\study\address\obj\Debug\net6.0\address.csproj.CoreCompileInputs.cache
+E:\study\address\obj\Debug\net6.0\address.dll
+E:\study\address\obj\Debug\net6.0\refint\address.dll
+E:\study\address\obj\Debug\net6.0\address.pdb
+E:\study\address\obj\Debug\net6.0\address.genruntimeconfig.cache
+E:\study\address\obj\Debug\net6.0\ref\address.dll
