@@ -1,0 +1,15 @@
+E:\study\Employee\bin\Debug\net6.0\Employee.exe
+E:\study\Employee\bin\Debug\net6.0\Employee.deps.json
+E:\study\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+E:\study\Employee\bin\Debug\net6.0\Employee.dll
+E:\study\Employee\bin\Debug\net6.0\Employee.pdb
+E:\study\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+E:\study\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+E:\study\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+E:\study\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+E:\study\Employee\obj\Debug\net6.0\Employee.dll
+E:\study\Employee\obj\Debug\net6.0\refint\Employee.dll
+E:\study\Employee\obj\Debug\net6.0\Employee.pdb
+E:\study\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+E:\study\Employee\obj\Debug\net6.0\ref\Employee.dll
