@@ -53,17 +53,6 @@ using System.Net;
                 age = value;
             }
         }
-        //public string FillingDate
-        //{
-        //    get
-        //    {
-        //        return fillingDate;
-        //    }
-        //    set
-        //    {
-        //        fillingDate = value;
-        //    }
-        //}
 
         static User()
         {
@@ -73,9 +62,9 @@ using System.Net;
         public static void Main()
         {
             User one = new User();
-            one.login = "arsen_myskiv";
-            one.name = "Arsen";
-            one.surname = "Myskiv";
+            one.login = "shuldyk_andrii";
+            one.name = "Andrii";
+            one.surname = "Shuldyk";
             one.Age = 18;
             Console.WriteLine($"Login: {one.login}; Name: {one.name}; Surname: {one.surname}; Age: {one.age}; date of filling out the questionnaire: {fillingDate}");
         }
