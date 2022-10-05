@@ -1,98 +1,97 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System;
 using System.Net;
-using System.Text;
-using System.Threading.Tasks;
 
-    public class Address
+    class Program
     {
-        string index;
-        public string Index
+        static void Main(string[] args)
         {
-            set
-            {
-                index = value;
-            }
+            Adress my = new Adress();
+            my.Index = 08400;
+            my.Country = "Ukraine";
+            my.City = "Pereyaslab";
+            my.Street = "Soborna";
+            my.House = 52;
+            my.Apartment = 07;
+            my.Print();
+        }
+    }
+    class Adress
+    {
+        private int index;
+        private string country;
+        private string city;
+        private string street;
+        private int house;
+        private int apartment;
+
+        public int Index
+        {
             get
             {
                 return index;
             }
-        }
-        string country;
-        public string Country
-        {
             set
             {
-                country = value;
+                index = value;
             }
+        }
+        public string Country
+        {
             get
             {
                 return country;
             }
-        }
-        string city;
-        public string City
-        {
             set
             {
-                city = value;
+                country = value;
             }
+        }
+        public string City
+        {
             get
             {
                 return city;
             }
-        }
-        string street;
-        public string Street
-        {
             set
             {
-                street = value;
+                city = value;
             }
+        }
+        public string Street
+        {
             get
             {
                 return street;
             }
-        }
-        string house;
-        public string House
-        {
             set
             {
-                house = value;
+                street = value;
             }
+        }
+        public int House
+        {
             get
             {
                 return house;
             }
-        }
-        string apartment;
-        public string Apartment
-        {
             set
             {
-                apartment = value;
+                house = value;
             }
+        }
+        public int Apartment
+        {
             get
             {
                 return apartment;
             }
+            set
+            {
+                apartment = value;
+            }
         }
-        public static void Main()
+        public void Print()
         {
-            Address address = new Address();
-            address.index = "08400";
-            address.country = "Ukraine";
-            address.city = "Pereiaslav";
-            address.street = "Soborna";
-            address.house = "52";
-            address.apartment = "7";       
-            Console.WriteLine(address.index);
-            Console.WriteLine(address.country);
-            Console.WriteLine(address.city);
-            Console.WriteLine(address.street);
-            Console.WriteLine(address.house);
-            Console.WriteLine(address.apartment);
+            Console.WriteLine($"Index: {index}; Country: {country}; City: {city}; Street: {street}; House: {house}; Apartment: {apartment}");
         }
     }
